@@ -6,6 +6,7 @@ A task management application built with Laravel, designed to help you keep trac
 
 - Create, read, and delete tasks
 - Task categorization with priorities
+- Drag and Drop priority update
 
 ## Prerequisites
 
@@ -22,7 +23,7 @@ Follow these steps to set up the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/task-management-app.git
+git clone https://github.com/cw-alihyder/task-managment-app.git
 
 cd task-management-app
 
