@@ -28,4 +28,10 @@ Follow these steps to set up the project locally.
 
 ```bash
 git clone https://github.com/your-username/task-management-app.git
+
 cd task-management-app
+
+composer install
+
+
+php artisan migrate:fresh --seed
